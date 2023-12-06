@@ -1,0 +1,10 @@
+
+:root{ /* criação das variáveis de cores */
+    --cor_fundo_box: rgb(240, 247, 243);    
+    --cor_fundo: rgb(39, 58, 52);
+    --cor_fonte: rgb(39,58,52);
+    --cor_border: rgb(9, 185, 129);
+    --cor_icons: rgb(9, 185, 129);
+    --cor_copy_hover: rgb(255,0,0)
+   
+}

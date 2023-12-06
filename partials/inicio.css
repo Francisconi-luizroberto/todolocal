@@ -1,0 +1,47 @@
+
+main {
+    background-color: rgb(240, 247, 243);
+    margin-top: 5px; 
+    border-bottom: solid 5px var(--cor_border); 
+    border-top: solid 5px var(--cor_border);
+    border-left: solid 5px var(--cor_border);
+    border-right: solid 5px var(--cor_border);
+    
+  }
+
+  form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    padding: 20px 10px 10px 20px;
+  }
+
+  input {
+    font-size: 36px;
+    margin-bottom: 20px;
+ }
+
+ label {
+    margin-right: 10px; /* Adiciona espaço à direita do rótulo */
+}
+
+ button {
+    font-size: 36px;
+    vertical-align:top;
+    margin-bottom: 40px; /* Adiciona espaço abaixo do botão */
+ }
+
+ body {
+    background-color:var(--cor_fundo);
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+
+ div {
+    margin-left: 50px;
+    margin-right: 50px;
+    
+ }
+
+ fieldset {
+    font-size: 30px;
+ }
